@@ -761,8 +761,8 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/HILLS.unity
   - Assets/Scenes/HOME.unity
+  - Assets/Scenes/HILLS.unity
   - Assets/Scenes/VALLY.unity
   - Assets/Scenes/WASTELAND.unity
   playerPath: E:/Unity/ProjectAPKS/Survival.apk

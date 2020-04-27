@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HILLS.unity
-    guid: 58a57c736a8e232469cf80fcc570a3eb
-  - enabled: 1
     path: Assets/Scenes/HOME.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HILLS.unity
+    guid: 58a57c736a8e232469cf80fcc570a3eb
   - enabled: 1
     path: Assets/Scenes/VALLY.unity
     guid: 668b0a8a3de2c634db9b676ca152272b
